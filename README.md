@@ -159,5 +159,5 @@ Run `ClientGUI.java` or `MainClient.java <file_path>`
 ---
 
 ## 👨‍💻 Author
-**Udit Kumar**  
+**Udit Kumar, Rakshit**  
 B.E. Computer Science Engineering  
